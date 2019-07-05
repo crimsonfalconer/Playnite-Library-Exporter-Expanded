@@ -1,0 +1,8 @@
+Name: Library Exporter Expanded
+Author: crimsonfalconer, Playnite
+Version: 1.0
+Module: LibraryExporterExpanded.ps1
+Type: Script
+Functions: 
+    - Description: Export Library Expanded
+      FunctionName: ExportLibrary
